@@ -99,3 +99,10 @@ restrição aparecerão quando as condições climáticas não forem adequadas p
 
 Este projeto serve como um excelente exemplo de como o polimorfismo pode ser aplicado em Rust para criar um código flexível, extensível e de fácil manutenção.
 
+
+## 👥 Equipe
+
+- André Felipe
+- Bernardo Ruas
+- Heuller Ramos
+- Gustavo dos Santos
